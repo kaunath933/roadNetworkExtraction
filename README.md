@@ -1,4 +1,4 @@
-# roadNetworkExtraction
+# Road Network Extraction 
 Road Network Extraction from Aerial Images using Image Processing and Clustering
 
 The whole project is done using java in intelliJ.
